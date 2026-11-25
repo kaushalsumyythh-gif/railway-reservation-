@@ -1,0 +1,8 @@
+# Compiled files
+railway
+railway.exe
+*.o
+*.out
+
+# Saved reservation data (created when the program runs)
+reservations.dat
